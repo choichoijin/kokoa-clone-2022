@@ -39,6 +39,7 @@
   margin-top: 8px;
   font-size: 17px;
   color: rgba(0, 0, 0, 0.5);
+  display: flex;
 }
 
 .user-component__title--not-bold {
@@ -55,4 +56,16 @@
 .user-component__time {
   margin-bottom: 10px;
   display: block;
+}
+
+.user-component__text i {
+  color: red;
+  width: 20px;
+  height: 20px;
+  border-radius: 15px;
+  border: red solid 1.5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 5px;
 }

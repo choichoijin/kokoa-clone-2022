@@ -8,11 +8,13 @@
 @import "components/user-component.css";
 @import "components/badge.css";
 @import "components/point.css";
+@import "components/icon-row.css";
 
 /* Screens */
 @import "Screens/login.css";
 @import "Screens/friends.css";
 @import "Screens/find.css";
+@import "Screens/more.css";
 
 body {
   color: #121416;
